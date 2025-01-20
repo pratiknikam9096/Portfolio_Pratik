@@ -20,10 +20,3 @@ Check out the live version of the portfolio here: [Portfolio Website](https://ni
 
 ---
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
