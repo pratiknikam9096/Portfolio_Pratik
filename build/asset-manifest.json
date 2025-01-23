@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.501434a7.css",
+    "main.js": "/static/js/main.b2299ba4.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/cv.pdf": "/static/media/cv.2781a837bc3cf0ac667a.pdf",
+    "static/media/frisbee.jpeg": "/static/media/frisbee.72c1c99157263bf07bfe.jpeg",
+    "static/media/alien_invasion.jpg": "/static/media/alien_invasion.383fa75f51f9696df1e2.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.fbe91e2c3840ae2fb09e.png",
+    "static/media/TextPro.png": "/static/media/TextPro.40211c84aed26a8087f8.png",
+    "static/media/falcon.jpeg": "/static/media/falcon.60a5c5d09e19d44f52e0.jpeg",
+    "static/media/webdev.png": "/static/media/webdev.42e457d47645f6f58ca9.png",
+    "static/media/wiki.jpeg": "/static/media/wiki.2fdf459eab79bc89df19.jpeg",
+    "index.html": "/index.html",
+    "main.501434a7.css.map": "/static/css/main.501434a7.css.map",
+    "main.b2299ba4.js.map": "/static/js/main.b2299ba4.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.501434a7.css",
+    "static/js/main.b2299ba4.js"
+  ]
+}
