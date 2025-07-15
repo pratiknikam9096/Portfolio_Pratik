@@ -1,5 +1,5 @@
 import React from 'react'
-import cv from '../assets/cv.pdf'
+import cv from '../assets/PratikNikam_9.pdf'
 
 const Header = () => {
     return (
