@@ -8,7 +8,7 @@ const Contacts = () => {
         <section id="contact">
             <div className="contact__container">
                 <a href="https://www.linkedin.com/in/nikam-p-86576a239/" target="_blank"><AiFillLinkedin /></a>
-                <a href="https://github.com/nikampratik9096" target="_blank"><AiOutlineGithub /></a>
+                <a href="https://github.com/pratiknikam9096" target="_blank"><AiOutlineGithub /></a>
                 <a href="mailto:nikampratik2989@gmail.com"><CgMail /></a>
             </div>
         </section>
