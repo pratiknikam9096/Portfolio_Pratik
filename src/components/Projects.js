@@ -51,7 +51,10 @@ const Projects = () => {
                 </article>
             </div>
             <div className="more">
-                <a href="https://github.com/nikampratik9096?tab=repositories" target="_blank" rel="noopener noreferrer" className="btn btn-primary center">See More</a>
+                <a href="https://github.com/pratiknikam9096?tab=repositories" target="_blank" rel="noopener noreferrer" className="btn btn-primary center github-btn">
+                    <span className="btn-text">Explore More Projects</span>
+                    <span className="btn-icon">→</span>
+                </a>
             </div>
         </section>
     )
