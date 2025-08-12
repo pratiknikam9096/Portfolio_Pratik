@@ -1,12 +1,11 @@
 import React from 'react'
-import webdev from '../assets/webdev.png'
 
 const About = () => {
     return (
         <section id="about">
             <div className="container about-main">
                 <div className="about__container">
-                    <img src={webdev} className="about-img" alt="About image" />
+                    <img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=800" className="about-img" alt="Professional developer workspace" />
                 </div>
                 <div className="about-content">
                     <h2>About Me</h2>
